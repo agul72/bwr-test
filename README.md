@@ -1,5 +1,5 @@
 ## Description
-This application runs the server on the localhost:5000 by default and lets to receive vehicle entities for the web page application from the client folder that provides the ability to show on the map vehicle's positions.
+This application runs the server on the localhost:5000 by default and lets to receive vehicle entities for the web page application from the client folder that provides the ability to show on the map vehicles' positions.
 
 ## Installation
 [Nodejs with NPM](https://nodejs.org/en/)
