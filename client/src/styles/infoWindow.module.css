@@ -1,0 +1,27 @@
+.comment {
+    width: 180px;
+    background: white;
+    position: relative;
+    -moz-border-radius: 12px;
+    -webkit-border-radius: 12px;
+    border-radius: 2px;
+    border: 1px gray solid;
+    padding: 10px;
+    bottom: 125px;
+    left: -20px;
+    line-height: 1.4;
+    z-index: 20;
+}
+.comment:after {
+    content: "";
+    width: 0;
+    height: 0;
+    left: 30px;
+    top: 100%;
+    position: absolute;
+    border-left: 20px solid transparent;
+    border-right: 20px solid transparent;
+    border-top: 15px solid white;
+}
+
+

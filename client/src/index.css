@@ -1,0 +1,19 @@
+.header {
+    background-color: steelblue;
+    padding: 5px 10px;
+
+}
+
+.main {
+    background-color: lightgray;
+    padding: 10px;
+
+
+}
+
+.container {
+    display: grid;
+    grid-template-rows: 70px auto;
+    height: 95vh;
+    border: gray double 2px;
+}
